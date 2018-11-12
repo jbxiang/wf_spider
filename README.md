@@ -26,7 +26,8 @@
 反爬
 --------
 使用`代理`和`限制爬取频率`这两种办法    
-proxy = random.choice(proxy_list)  
+proxy = random.choice(proxy_list)// Python  
 time.sleep(3)
+
 效果
 --------
