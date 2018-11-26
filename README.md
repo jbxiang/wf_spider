@@ -38,7 +38,7 @@
 ## BS
 然后使用BeautifulSoup对网页进行解析：  
 ```Python
-        paper_html = paper_content.decode('utf-8')
+        			paper_html = paper_content.decode('utf-8')
 				paper_soup = BeautifulSoup(paper_html,'html.parser')
 				paper_title_list = []
 ```
