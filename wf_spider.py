@@ -6,7 +6,7 @@ import csv ,codecs
 import xlsxwriter
 import re
 
-url_original= 'http://s.wanfangdata.com.cn/Paper.aspx?q=%e4%ba%92%e8%81%94%e7%bd%91&f=top&p='
+url_original= '这里是你要爬取的网页链接'
 paper_title_string ='文章标题'
 time_data_num ='出版年份'
 paper_keywd_string ='关键词'
